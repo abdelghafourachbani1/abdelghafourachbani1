@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdelghafour Achbani</h1>
-<h3 align="center">MERN Stack Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | MERN • Laravel • AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelghafourachbani1&label=Profile%20views&color=0e75b6&style=flat" alt="abdelghafourachbani1" /> </p>
 
